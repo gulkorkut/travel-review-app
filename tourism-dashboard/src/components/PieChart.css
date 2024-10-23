@@ -1,0 +1,34 @@
+/* PieChart.css */
+.pie-chart-container {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative; 
+  }
+  
+  .pie-chart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .pie-chart-title {
+    font-size: 1.5rem;
+  }
+  
+  .download-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .download-button:hover {
+    background-color: #45a049;
+  }
+  

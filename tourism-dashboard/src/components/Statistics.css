@@ -1,0 +1,26 @@
+/* Statistics.css */
+.statistics-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px;
+  }
+  
+  .statistics-item {
+    margin: 0 15px;
+    text-align: center;
+  }
+  
+  .statistics-item h3 {
+    margin: 0;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .statistics-item p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  

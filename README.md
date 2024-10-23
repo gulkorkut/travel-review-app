@@ -1,7 +1,3 @@
-# Full-Stack Developer Task
-
-Overview
-This report summarizes the updates and calculations made on your dataset, including statistics and filtering for meaningful insights.
 
 ## Date Ranges
 New Reviews:
@@ -28,13 +24,3 @@ Sidebar: Contains sections with titles and dividers.
 ### Full Page
 ![chrome_boWqLNZOd5](https://github.com/user-attachments/assets/6afed375-f6a4-4446-944a-42e41188ac14)
 
-### Top part:
-![chrome_BfLg3prPyI](https://github.com/user-attachments/assets/1555c379-f1e5-4f54-8ca3-a0567f301ad9)
-
-### Pie Chart:
-
-![chrome_qSCFKiBUHE](https://github.com/user-attachments/assets/cee56a17-de69-48b0-8965-3140fef6e112)
-
-### Reviews:
-
-![chrome_uCkciQQH4M](https://github.com/user-attachments/assets/4ec870aa-bdea-4f82-b1a8-72d82c6cb8f6)

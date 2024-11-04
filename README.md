@@ -16,7 +16,7 @@ Compliments: Number of positive sentiment reviews.
 Filtering: Data is filtered between 2023-08-01 and 2023-11-01.
 Visualizations: Includes Line Chart, Pie Chart, and Review Table.
 
-##UI Features
+## UI Features
 Download Button: Allows downloading the page as a PNG image.
 Filter Buttons: Located at the top, with options for All, Positive, and Negative reviews.
 Sidebar: Contains sections with titles and dividers.

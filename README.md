@@ -22,5 +22,5 @@ Filter Buttons: Located at the top, with options for All, Positive, and Negative
 Sidebar: Contains sections with titles and dividers.
 
 ### Full Page
-![chrome_boWqLNZOd5](https://github.com/user-attachments/assets/6afed375-f6a4-4446-944a-42e41188ac14)
+![chrome_boWqLNZOd5](fullpage.png)
 
